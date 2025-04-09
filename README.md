@@ -1,6 +1,6 @@
 # FRONTEND DEVELOPER
 
-#Technical skills: HTML, CSS, JAVASCRIPT, REACT.
+# Technical Skills: HTML, CSS, JAVASCRIPT, REACT.
 
 ### EDUCATION
 . Mechanical Engineer ND Federal Polytecnic Nekede, Owerri.
